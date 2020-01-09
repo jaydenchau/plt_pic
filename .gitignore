@@ -1,0 +1,13 @@
+.idea/*
+*.pyc
+*/__pycache__
+log/*
+*.log
+*.ipynb
+static/*
+frontend/*
+celerybeat.pid
+tt/*
+ssl_dir/apiclient_cert.pem
+ssl_dir/apiclient_key.pem
+apps/*/migrations/*
